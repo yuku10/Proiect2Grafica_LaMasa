@@ -1,0 +1,53 @@
+﻿  Source.cpp
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(110,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(192,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(197,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(202,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(246,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(277,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(285,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(287,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(296,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(297,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(298,28): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(299,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(307,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(314,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(315,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(316,28): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(317,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(323,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(326,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(334,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(336,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(343,28): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(344,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(345,29): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(346,28): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(352,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(360,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(362,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(367,28): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(368,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(369,29): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(370,28): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(452,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(452,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(453,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(453,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(454,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(454,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(455,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(455,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(466,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(479,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(484,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(490,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(493,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(502,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(504,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(514,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(516,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(526,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Proiect2grafica\Proiect2grafica\Proiect2grafica\Source.cpp(528,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Proiect2grafica.vcxproj -> F:\Proiect2grafica\Proiect2grafica\Debug\Proiect2grafica.exe
